@@ -1,3 +1,9 @@
+# Backup files
+*~
+
+# Generated Makefile
+Makefile
+
 # Compiled Object files
 *.slo
 *.lo
